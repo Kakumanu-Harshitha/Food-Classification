@@ -30,3 +30,23 @@ Enables automatic calorie tracking from restaurant meals.
 
 Used in apps like Zomato, UberEats, and Swiggy to categorize dishes automatically.
 Helps in personalized food recommendations based on user preferences.
+# Requirements:
+Pandas
+
+Numpy
+
+Matplotlib
+
+Seaborn
+
+tensorflow
+
+keras
+
+MobileNetV2 Architecture
+
+# programming languages:
+Python
+
+#owner:
+[Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
