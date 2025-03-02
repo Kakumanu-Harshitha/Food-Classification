@@ -30,6 +30,10 @@ Enables automatic calorie tracking from restaurant meals.
 
 Used in apps like Zomato, UberEats, and Swiggy to categorize dishes automatically.
 Helps in personalized food recommendations based on user preferences.
+# Results:
+# I got 85% Test Accuracy
+# Dataset Reference
+Dataset url: https://www.kaggle.com/datasets/trolukovich/food11-image-dataset
 # Requirements:
 Pandas
 
@@ -48,5 +52,5 @@ MobileNetV2 Architecture
 # programming languages:
 Python
 
-#owner:
+# owner:
 [Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
