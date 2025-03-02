@@ -6,6 +6,7 @@ Food classification is essential in various real-world applications, benefiting 
 
 Helps users track calories, protein, carbs, and fats from images of their meals.
 Useful for fitness apps and diet planning (e.g., MyFitnessPal, HealthifyMe).
+
 *Medical Use Cases 🏥*
 
 Assists diabetic and heart patients in monitoring their diet.
@@ -15,6 +16,7 @@ Supports AI-powered dietary recommendations based on a user’s health condition
 
 Detects spoiled or contaminated food in manufacturing and packaging.
 Used in food safety inspections to ensure freshness and quality.
+
 *Ingredient Detection for Allergies & Dietary Restrictions*
 
 Identifies foods containing allergens (nuts, dairy, gluten) to help people with dietary restrictions.
@@ -23,6 +25,7 @@ Identifies foods containing allergens (nuts, dairy, gluten) to help people with 
 
 Allows users to scan a dish and get detailed menu information instantly.
 Enables automatic calorie tracking from restaurant meals.
+
 *E-Commerce & Online Food Delivery Apps*
 
 Used in apps like Zomato, UberEats, and Swiggy to categorize dishes automatically.
